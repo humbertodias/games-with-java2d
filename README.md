@@ -66,9 +66,14 @@ mvn compile exec:java -Dexec.mainClass="spaceinvaders.Main"
 mvn compile exec:java -Dexec.mainClass="puzzle.Main"
 ```
 ![Preview](doc/puzzle.png)
+```
+mvn compile exec:java -Dexec.mainClass="zelda4k.Main"
+```
+![Preview](doc/zelda4k.png)
 
 
 ## References
 
 [ZedCode Tutorial](http://zetcode.com/tutorials/javagamestutorial/)
 
+[Zelda4K](http://java4k.com/index.php?action=games&method=view&gid=337)
