@@ -30,31 +30,38 @@ Run
 mvn compile exec:java -Dexec.mainClass="pacman.Main"
 ```
 ![Preview](doc/pacman.png)
-
 ```
 mvn compile exec:java -Dexec.mainClass="breakout.Main"
 ```
 ![Preview](doc/breakout.png)
-
 ```
 mvn compile exec:java -Dexec.mainClass="pong.Main"
 ```
 ![Preview](doc/pong.png)
-
 ```
 mvn compile exec:java -Dexec.mainClass="snake.Main"
 ```
 ![Preview](doc/snake.png)
-
 ```
 mvn compile exec:java -Dexec.mainClass="sokoban.Main"
 ```
 ![Preview](doc/sokoban.png)
-
 ```
 mvn compile exec:java -Dexec.mainClass="spacecraft.Main"
 ```
 ![Preview](doc/spacecraft.png)
+```
+mvn compile exec:java -Dexec.mainClass="tetris.Main"
+```
+![Preview](doc/tetris.png)
+```
+mvn compile exec:java -Dexec.mainClass="minesweeper.Main"
+```
+![Preview](doc/minesweeper.png)
+```
+mvn compile exec:java -Dexec.mainClass="spaceinvaders.Main"
+```
+![Preview](doc/spaceinvaders.png)
 
 
 ## References
