@@ -62,6 +62,10 @@ mvn compile exec:java -Dexec.mainClass="minesweeper.Main"
 mvn compile exec:java -Dexec.mainClass="spaceinvaders.Main"
 ```
 ![Preview](doc/spaceinvaders.png)
+```
+mvn compile exec:java -Dexec.mainClass="puzzle.Main"
+```
+![Preview](doc/puzzle.png)
 
 
 ## References
